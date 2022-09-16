@@ -1,0 +1,68 @@
+#Nolann Holvoet
+
+Links:
+Github:https://github.com/Nolann-Epi/HW3
+Netlify:https://scintillating-froyo-45d9ee.netlify.app/
+
+9.a) Dymamic language means that the interpreter will assign a type to variables during the run time based on their values
+
+10) Scopes means that a variable declared in this scope can t be used outside of this scope, a let could
+
+11) --> 9
+    --> "4 + 5"
+    --> "45"
+    --> "17"
+    --> "25"
+    --> "1"
+12) This is gonna put an error, but num1 should be 0
+
+13) This is gonna put an error because you can't assign a value to a const
+
+14) --> 2 10 102 30 40 10 10
+
+15) --> "Hello"
+    --> false
+    --> undefined
+    --> ""
+    --> Goodbye
+    
+    --> true
+    --> "Hello"
+    --> "Hello"
+    --> "Hello"
+    --> "Hello"
+
+16) --> true
+    --> true
+    --> false
+    --> false
+    --> true
+    
+    --> false
+    --> false
+    --> false
+    --> false
+    --> false
+    
+17) A  --> value of i is 1
+    B  --> value of i is 2
+
+18) A  --> x = abc
+    B  --> x = abc /n x = def
+
+19) A  --> x is 2
+    B  --> No output
+    C  --> x is 3
+
+20) A  --> No output
+    B  --> x is 3
+    C  --> z is 6
+    
+21) A  --> 5 times loop
+    B  --> Infinite loop
+
+22) A  --> 5 times loop
+    B  --> 3 times loop
+
+
+   
